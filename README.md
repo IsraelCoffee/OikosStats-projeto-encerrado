@@ -4,8 +4,7 @@ Site de estatísticas eleitorais sobre as eleições distritais de 2022 no Distr
 
 🔗 **Site:** https://israelcoffee.github.io/OikosStats/index.html
 
-> ⚠️ **Projeto em desenvolvimento.** Algumas seções (gráficos interativos, ranking de Instagram, carrossel de deputados) ainda estão sendo implementadas.
-
+> ⚠️ **Projeto encerrado por enquanto.** Algumas seções (gráficos interativos, ranking de Instagram, carrossel de deputados) ainda estão sendo implementadas.
 ## Sobre o projeto
 
 O Oikos Stats nasceu da vontade de entender melhor como funcionam as eleições no Distrito Federal — quem vota em quem, onde os votos se concentram e o que acontece depois que o mandato começa. A ideia é reunir, num só lugar, estatísticas eleitorais, gastos parlamentares e um comparativo entre promessas de campanha e leis efetivamente aprovadas.
